@@ -8,3 +8,4 @@ If I've missed any then please feel free to add them to the list!
 ### 2015
 1. [**ASP.NET 5 Overview**](http://odetocode.com/videos/play/aspnet5-overview): K. Scott Allen, `39:48`
 2. [**Introducing ASP.NET 5**](https://www.youtube.com/watch?v=acZ75rxcxPs): The Lesser Scotts (Scott Hanselman & Scott Hunter), Build `59.37`
+3. [**Deep Dive into ASP.NET 5**](https://www.youtube.com/watch?v=G5yHPlpTfHU): Scott Hanselman & Damian Edwards, Build `1:00`

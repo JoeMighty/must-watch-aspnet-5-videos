@@ -1,6 +1,6 @@
 # Must watch ASP.NET 5 / MVC videos
 
-With all of the great work the .NET guys have been doing lately and the release of ASP.NET 5 just around the corner I've composed a collection of must watch videos that I've been recommended or found.
+With all of the great work the .NET guys have been doing lately and the release candidate of ASP.NET 5 just around the corner I've composed a collection of must watch videos that I've been recommended or found.
 
 If I've missed any then please feel free to add them to the list!
 

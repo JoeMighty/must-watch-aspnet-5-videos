@@ -14,3 +14,4 @@ If I've missed any then please feel free to add them to the list!
 4. [**ASP.NET 5 and ASP.NET MVC 6 Full Tutorial**](https://www.youtube.com/watch?v=P6qSEAsMD2c): The Lesser Scotts (Scott Hanselman & Scott Hunter) Microsoft Virtual Academy, `04:23`
 5. [**Internals of ASP.NET 5**](https://www.youtube.com/watch?v=F2xCVGFIxwg): Brock Allen, DevelopMentor, `01:17`
 6. [**Getting Started with ASP.NET 5**](https://www.youtube.com/watch?v=YvfMOg4OHVE): Glenn Condron, Ignite 2015, `32:37`
+7. [**ASP.NET 5: Performance**](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/ASPNET-5-Performance): Damian Edwards, `43:11`
